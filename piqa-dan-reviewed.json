@@ -249,8 +249,8 @@
     },
     {
         "prompt": "Hvis ens lommelygte går ud en sommernat så",
-        "solution0": "kan man stadig se",
-        "solution1": "kan man ikke se",
+        "solution0": "kan man stadig se.",
+        "solution1": "kan man ikke se.",
         "label": 0,
         "n_words": 12,
         "id": 31
