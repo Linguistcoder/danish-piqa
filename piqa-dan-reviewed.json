@@ -305,7 +305,7 @@
     },
     {
         "prompt": "Jeg så i vejrudsigten, at det bliver stiv kuling i dag, så det er",
-        "solution0": "dårligt cykelvejr",
+        "solution0": "dårligt cykelvejr.",
         "solution1": "perfekt cykelvejr!",
         "label": 0,
         "n_words": 16,
