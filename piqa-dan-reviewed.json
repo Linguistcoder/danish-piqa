@@ -48,9 +48,9 @@
         "id": 5
     },
     {
-        "prompt": "Hvis jeg gerne vil invitere til en fest så skal jeg sende invitationen som",
-        "solution0": "et brev",
-        "solution1": "en pakke",
+        "prompt": "Hvis jeg gerne vil invitere til en stor fest med masser af mennesker så skal jeg sende invitationen som",
+        "solution0": "et brev.",
+        "solution1": "en pakke.",
         "label": 0,
         "n_words": 16,
         "id": 6
