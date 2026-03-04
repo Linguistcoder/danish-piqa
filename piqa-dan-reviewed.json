@@ -81,8 +81,8 @@
     },
     {
         "prompt": "I en skål med koldskål kan der cirka være",
-        "solution0": "10-20 kammerjunker",
-        "solution1": "100-200 kammerjunker",
+        "solution0": "imellem 10 til 20 kammerjunker.",
+        "solution1": "imellem 100 til 200 kammerjunker.",
         "label": 0,
         "n_words": 11,
         "id": 10
