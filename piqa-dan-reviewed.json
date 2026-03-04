@@ -321,8 +321,8 @@
     },
     {
         "prompt": "I går, efter jeg havde spist frokost, cyklede jeg lige en lille tur hjem fra Næstved til",
-        "solution0": "Ringsted",
-        "solution1": "Skagen",
+        "solution0": "Ringsted.",
+        "solution1": "Skagen.",
         "label": 0,
         "n_words": 18,
         "id": 40
