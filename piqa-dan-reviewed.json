@@ -121,8 +121,8 @@
     },
     {
         "prompt": "Hvis man bommer - altså når den tunge tværstang nederst på sejlet svinger til siden i et ‘sving’ - under sejlads er det vigtig at man",
-        "solution0": "dukker sig under bommen, så man ikke bliver ramt",
-        "solution1": "hopper henover bommen, så man ikke bliver ramt",
+        "solution0": "dukker sig under bommen, så man ikke bliver ramt.",
+        "solution1": "hopper henover bommen, så man ikke bliver ramt.",
         "label": 0,
         "n_words": 35,
         "id": 15
