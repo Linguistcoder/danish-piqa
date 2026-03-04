@@ -217,8 +217,8 @@
     },
     {
         "prompt": "Hvis jeg sparker hårdt til en fodbold mens den er våd så",
-        "solution0": "flyver den langt væk",
-        "solution1": "rykker den sig ikke",
+        "solution0": "flyver den langt væk.",
+        "solution1": "rykker den sig ikke.",
         "label": 0,
         "n_words": 16,
         "id": 27
