@@ -775,7 +775,7 @@
   },
   {
     "prompt": "Det er en solrig dag og jeg vil gerne gå en tur med min hund. Jeg har planer om at gå gennem et parcelhuskvarter.",
-    "solution0": "Her er husene for høje nok til at dække for solen.",
+    "solution0": "Her er husene høje nok til at dække for solen.",
     "solution1": "Her er husene for lave til at dække for solen.",
     "label": 1,
     "n_words": 35,
