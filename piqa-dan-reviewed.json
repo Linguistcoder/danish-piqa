@@ -409,8 +409,8 @@
     },
     {
         "prompt": "Ude ved vestkysten er det typisk",
-        "solution0": "meget blæsende",
-        "solution1": "mildt og solrigt vejr",
+        "solution0": "meget blæsende.",
+        "solution1": "mildt og solrigt vejr.",
         "label": 0,
         "n_words": 8,
         "id": 51
