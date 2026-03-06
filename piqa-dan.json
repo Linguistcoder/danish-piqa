@@ -193,7 +193,7 @@
   },
   {
     "prompt": "Når klokken slår midnat ved nytår, skal vi",
-    "solution0": "hoppe ned af vores stole og drikke masser af champagne .",
+    "solution0": "hoppe ned af vores stole og drikke masser af champagne.",
     "solution1": "sætte os på vores stole og drikke masser af champagne.",
     "label": 0,
     "n_words": 19,
