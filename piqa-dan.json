@@ -376,12 +376,12 @@
     "id": 46
   },
   {
-    "prompt": "Jens Peters hjemmelavet suppe er brandvarm, og derfor kan det være en rigtig god ide at vendte et par minutter for ikke at",
+    "prompt": "Jens Peters hjemmelavet suppe er brandvarm, og derfor kan det være en rigtig god ide at vendte et par minutter med at spise for ikke at",
     "solution0": "brænde sin tunge.",
     "solution1": "brænde sin hånd.",
     "label": 0,
     "id": 47,
-    "n_words": 26
+    "n_words": 29
   },
   {
     "prompt": "Amin kan godt lide at hinke på legepladsen, hvor han selv har tegnet en bane med kridt. Han mister nogle gange balancen, hvis han rammer",
